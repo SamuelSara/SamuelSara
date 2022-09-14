@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SamuelSara
-- 👀 I’m interested in Waterpolo, Climate Change, Crypto, and Software Automation
+- 👋 Hi, I’m Samuel Sarantos
+- 👀 I’m interested in Climate Change, Crypto, and Software Automation
 - 🌱 I’m currently learning Python, Javascript, and MySQL
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me https://twitter.com/SamuelSarantos
