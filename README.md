@@ -8,7 +8,7 @@ I am currently in my third year of computer science. I'm still working to improv
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [sam.sarantos@gmail.com](mailto:sam.sarantos@gmail.com)
-* 🧠  I'm learning Python and MySQL
+* 🧠  I'm currently learning Python3 and React Native
 * 🤝  I'm open to collaborating on Any and All projects
 * ⚡  I love Legos and the Gym
 
