@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-I am currently in my third year of computer science. I'm still working to improve my technical and interpersonal skills. My desire to make a positive impact around me drives me to work hard and effectively. I've applied my work ethic, problem-solving mindset, and team-oriented approach as a tutor, manager, volunteer, and student with the intent of enhancing the environment in which I work and making a positive impact on my community.
+I'm still working to improve my technical and interpersonal skills. My desire to make a positive impact around me drives me to work hard and effectively. I've applied my work ethic, problem-solving mindset, and team-oriented approach as a tutor, manager, volunteer, and student with the intent of enhancing the environment in which I work and making a positive impact on my community.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [sam.sarantos@gmail.com](mailto:sam.sarantos@gmail.com)
