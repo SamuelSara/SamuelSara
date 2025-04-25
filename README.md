@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Sales Engineer
 ------------------------
 
-I'm still working to improve my technical and interpersonal skills. My desire to make a positive impact around me drives me to work hard and effectively. I've applied my work ethic, problem-solving mindset, and team-oriented approach as a tutor, manager, volunteer, and student with the intent of enhancing the environment in which I work and making a positive impact on my community.
+Motivated and results-driven professional with a strong Computer Science foundation and hands-on expertise in the event and rental management software industry. Skilled at bridging business needs with technical solutions, delivering impactful demos, and driving operational growth. Thrives in fast-paced environments that value collaboration, agility, and customer-centered innovation.
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [sam.sarantos@gmail.com](mailto:sam.sarantos@gmail.com)
