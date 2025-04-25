@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel Sarantos
 =======================================================================================================================================
 
-Computer Science Student
+Sales Engineer
 ------------------------
 
 I'm still working to improve my technical and interpersonal skills. My desire to make a positive impact around me drives me to work hard and effectively. I've applied my work ethic, problem-solving mindset, and team-oriented approach as a tutor, manager, volunteer, and student with the intent of enhancing the environment in which I work and making a positive impact on my community.
 
-* 🌍  I'm based in California
+* 🌍  I'm based in United States
 * ✉️  You can contact me at [sam.sarantos@gmail.com](mailto:sam.sarantos@gmail.com)
-* 🧠  I'm currently learning Python3 and React Native
+* 🧠  I'm currently learning MCP Connections and React Native
 * 🤝  I'm open to collaborating on Any and All projects
-* ⚡  I love Legos and the Gym
+* ⚡  I love Legos and the Gym 
 
 <a href="https://www.twitter.com/SamuelSarantos" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SamuelSarantos?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
