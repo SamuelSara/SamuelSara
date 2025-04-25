@@ -8,7 +8,7 @@ Motivated and results-driven professional with a strong Computer Science foundat
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [sam.sarantos@gmail.com](mailto:sam.sarantos@gmail.com)
-* 🧠  I'm currently learning MCP Connections and React Native
+* 🧠  I'm currently learning MCP (Model Context Protocol) and React Native
 * 🤝  I'm open to collaborating on Any and All projects
 * ⚡  I love Legos and the Gym 
 
